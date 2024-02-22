@@ -1,3 +1,9 @@
+# Screenshot
+![Screenshot](./public/img/screenshot.png)
+
+
+
+
 
 ## Make it Yours!
 ### 1. Preps
